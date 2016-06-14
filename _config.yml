@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lisalohan.github.io
+title: Gultom Siregar
+email: mytamaharani@yahoo.com
+author: lisalohan
+description: My awesome new site
+paginate: 5
+google_analytics: 
